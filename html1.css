@@ -1,0 +1,14 @@
+a{
+    font-size: 20px;
+}
+
+body{
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/001/281/285/large/arvie-alba-render-dark.jpg?1443552726);
+    background-size: cover;
+}
+
+*{
+    text-align: center;
+    font-family: monospace;
+    color: white;
+}
