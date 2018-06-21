@@ -1,0 +1,32 @@
+
+
+body{
+    font-family: 'A Sensible Armadillo';
+    background-color: black;
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%; 
+}
+
+section{
+    text-align:center;
+    color: white;
+    font-size: 15;
+    padding: 10;
+}
+    
