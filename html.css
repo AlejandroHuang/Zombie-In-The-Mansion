@@ -1,0 +1,15 @@
+a{
+    font-size: 20px;
+}
+
+body{
+    background-image: url(http://www.maxohome.com/wp-content/uploads/2018/03/steampunk-tendencies-the-study-set-from-the-haunted-mansion-inside-haunted-mansion-living-room.jpg);
+    background-size: cover;
+}
+
+*{
+    text-align: center;
+    font-family: monospace;
+    color: white;
+}
+
