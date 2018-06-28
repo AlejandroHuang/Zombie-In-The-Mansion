@@ -18,12 +18,13 @@ h2{
     color: white;
     font-family: sans-serif;
     text-align: center;
-    text-decoration-line:underline
+    text-decoration-line:underline;
 }
 
 h3{
     font-size: 30;
     text-align: center;
+
 }
 
 a{
